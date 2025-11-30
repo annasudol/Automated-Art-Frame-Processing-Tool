@@ -1,0 +1,43 @@
+{
+  "image_path": "frame.jpg",
+  "image_dimensions": {
+    "width": 890,
+    "height": 1024
+  },
+  "corners": {
+    "top_left": [
+      194,
+      144
+    ],
+    "top_right": [
+      647,
+      140
+    ],
+    "bottom_right": [
+      610,
+      869
+    ],
+    "bottom_left": [
+      133,
+      824
+    ]
+  },
+  "corners_array": [
+    [
+      194,
+      144
+    ],
+    [
+      647,
+      140
+    ],
+    [
+      610,
+      869
+    ],
+    [
+      133,
+      824
+    ]
+  ]
+}
